@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  input, button {
+    padding: 8px;
+    font-size: 16px;
+  }
+  
+  #taskTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 50px;
+   
+  }
+  
+  #taskTable th, #taskTable td {
+    border: 1px solid #aaa;
+    padding: 10px;
+    text-align: center;
+  }
+  
